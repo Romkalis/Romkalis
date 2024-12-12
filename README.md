@@ -3,15 +3,15 @@
       <h3> Frontend Developer in <i><b>React.js</b></i> </h3>
 </div>
 
-<div class="constacts" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<div class="constacts" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center" align="center">
     <span>You can contacts with me in:</span>
-    <a href="https://ya.ru">
+    <a href="[https://ya.ru](https://www.linkedin.com/in/romanbondarchuk/)">
         <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
     </a>
-    <a href="https://ya.ru">
+    <a href="https://t.me/rkliss">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="https://ya.ru">
+    <a href="mailto:yukkilumen@gmail.com?subject=Привет, я пришел с ГитХаб!&body=Здравствуйте!">
         <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
     </a>
 </div>
