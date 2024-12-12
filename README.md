@@ -4,9 +4,9 @@
 </div>
 
 <div class="constacts" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center" align="center">
-    <span>You can contacts with me in:</span>
+    <span></span>
+      <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="You can contacts with me in:">
     <a href="https://ya.ru](https://www.linkedin.com/in/romanbondarchuk/)">
-        <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
     </a>
     <a href="https://t.me/rkliss">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
