@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-My name is Roman Bondarchuck, and, i'm 
-      --- frontend developer ---
+<div align="center">
+<h2>My name is Roman Bondarchuck, and, i'm</h2>
+      <h3>--- frontend developer ---</h3>
+</div>
 <!--
 **Romkalis/Romkalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
