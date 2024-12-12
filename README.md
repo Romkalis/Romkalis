@@ -1,5 +1,4 @@
-
-[<div align="center">
+<div align="center">
 <h2 style="color: wheat"> Hi there 👋 My name is Roman Bondarchuck, and i'm</h2>
       <h3> Frontend Developer in <i><b>React.js</b></i> </h3>
 </div>
@@ -52,7 +51,3 @@
 
 <hr>
 ](url)
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Файл не выбран
-Attach files by dragging & dropping, selecting or pasting them.
-Editing Romkalis/README.md at main · Romkalis/Romkalis 
