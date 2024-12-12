@@ -1,12 +1,15 @@
-<div align="center">
+
+[<div align="center">
 <h2 style="color: wheat"> Hi there 👋 My name is Roman Bondarchuck, and i'm</h2>
       <h3> Frontend Developer in <i><b>React.js</b></i> </h3>
 </div>
 
-<div class="constacts" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center" align="center">
-    <span></span>
-      <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="You can contacts with me in:">
+<div class="constacts" align="center">
+    <span>
+      <img src="https://img.shields.io/badge/You can contacts with me in:-wheat?style=for-the-badge&logo=text&logoColor=blue" alt="You can contacts with me in:">
+    </span>
     <a href="https://ya.ru](https://www.linkedin.com/in/romanbondarchuk/)">
+          <img src="https://img.shields.io/badge/LinkedIn:-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedinn"/>
     </a>
     <a href="https://t.me/rkliss">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -48,3 +51,8 @@
 - ⚡ I have a two wonderful shetland sheepdogs.
 
 <hr>
+](url)
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Файл не выбран
+Attach files by dragging & dropping, selecting or pasting them.
+Editing Romkalis/README.md at main · Romkalis/Romkalis 
