@@ -5,7 +5,7 @@
 
 <div class="constacts" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center" align="center">
     <span>You can contacts with me in:</span>
-    <a href="[https://ya.ru](https://www.linkedin.com/in/romanbondarchuk/)">
+    <a href="https://ya.ru](https://www.linkedin.com/in/romanbondarchuk/)">
         <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
     </a>
     <a href="https://t.me/rkliss">
