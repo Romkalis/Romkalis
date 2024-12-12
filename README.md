@@ -8,7 +8,7 @@
     <span>
       <img src="https://img.shields.io/badge/You can contacts with me in:-wheat?style=for-the-badge&logo=text&logoColor=blue" alt="You can contacts with me in:">
     </span>
-    <a href="https://ya.ru](https://www.linkedin.com/in/romanbondarchuk/)">
+    <a href="https://www.linkedin.com/in/romanbondarchuk/">
           <img src="https://img.shields.io/badge/LinkedIn:-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedinn"/>
     </a>
     <a href="https://t.me/rkliss">
