@@ -41,7 +41,7 @@
 
 ## Small talk about me:
 - I’m currently learning Next.js and planning to learn Node.js
-- I have 3 working business projects in my portfolio
+- I have <s>3</s> 4 working business projects in my portfolio
 - I like to study and learning
 - My native language is Russian
 - English
